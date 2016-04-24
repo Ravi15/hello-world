@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hi This is Ravi.I am just learning Github.It is cool :)
